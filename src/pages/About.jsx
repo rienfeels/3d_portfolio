@@ -22,8 +22,12 @@ const About = () => {
         <p>
           Full Stack Web and Software Developer based in Greenville, South
           Carolina with an appreciation for UI/UX design and Artificial
-          Intelligence / Large Language Models.
+          Intelligence / Large Language Models. Although i'm excited to jump
+          into any new languages / technologies.
         </p>
+        <a href="/updatedResumecopy.pdf" target="_blank">
+          View my resume
+        </a>
       </div>
 
       <div className="py-10 flex flex-col">
