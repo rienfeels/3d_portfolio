@@ -25,7 +25,7 @@ const About = () => {
           Intelligence / Large Language Models. Although i'm excited to jump
           into any new languages / technologies.
         </p>
-        <a href="/updatedResumecopy.pdf" target="_blank">
+        <a href="public/resume.pdf" target="_blank">
           View my resume
         </a>
       </div>
